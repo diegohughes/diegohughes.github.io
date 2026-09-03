@@ -12,5 +12,35 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1,CANAL 12
 https://nd106.republicaservers.com:4433/c7827.mp4
 
+#EXTINF:-1,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1,CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1,DW
 http://177.234.249.178:8888/DW/index.m3u8
+
+#EXTINF:-1,FRANCE 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+
+#EXTINF:-1,EURONEWS
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+
+#EXTINF:-1,HISTORY LATIN AMERICA
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
+#EXTINF:-1,DISCOVERY 1
+http://181.224.200.5:2277/play/a00t/index.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+
+#EXTINF:-1,LOVE NATURE
+http://181.224.200.5:2277/play/a036/index.m3u8
+
+#EXTINF:-1,NATGEO HD
+http://181.224.200.5:2277/play/a012/index.m3u8
+
+#EXTINF:-1,PARAMOUNT
+http://181.224.200.5:2277/play/a0df/index.m3u8
