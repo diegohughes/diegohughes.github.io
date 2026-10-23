@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1,TN
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_360.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
+
+#EXTINF:-1,FRANCE 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1,EL GOURMET
 http://177.234.249.178:8888/EL-GOURMET/index.m3u8
@@ -39,14 +45,8 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1,PERFIL
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
-#EXTINF:-1,DW
-http://177.234.249.178:8888/DW/index.m3u8
-
 #EXTINF:-1,DW 2
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-
-#EXTINF:-1,FRANCE 24
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 
 #EXTINF:-1,EURONEWS
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
