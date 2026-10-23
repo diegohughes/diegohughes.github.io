@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TodoNoticias.png", TN (Todo Noticias)
+plugin://plugin.video.youtube/play/?video_id=hMBK7M7p80w
+
 #EXTINF:-1,EL GOURMET
 http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 
